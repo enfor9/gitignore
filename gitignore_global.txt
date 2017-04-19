@@ -28,7 +28,6 @@ bin/
 obj/
 .suo
 *.gitignore
-*.jar
 /classes/
 
 /test-classes/
