@@ -31,5 +31,6 @@ obj/
 /classes/
 
 /test-classes/
-
+access_token.txt
+cid_file.txt
 
