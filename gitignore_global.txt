@@ -35,3 +35,8 @@ access_token.txt
 cid_file.txt
 
 *.prefs
+*.jar
+*.cmd
+mvnw
+.mvn/
+pom.xml
